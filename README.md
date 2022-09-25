@@ -1,1 +1,1 @@
-# Carousell-new-listing-automation-web-scrapping-
+# Carousell new-listing automation (web scrapping)
