@@ -1,0 +1,20 @@
+<form action="{{ url_for("gfg")}}" method="post">
+
+<label for="product">Product Name:</label>
+<input type="text" id="product_name" name="pname" />
+
+<label for="start">Start Price:</label>
+<input type="text" id="start_price" name="start" />
+
+<label for="end">End Price:</label>
+<input type="text" id="end_price" name="end" />
+
+<label for="sort">Sort By???</label>
+<select name="sorting" id="sorted">
+  <option value="Best match">Best match</option>
+  <option value="Recent">Recent</option>
+  <option value="High to low">High to low</option>
+  <option value="Low to high">Low to high</option>
+</select>
+
+<button type="submit">Submit</button>
