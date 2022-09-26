@@ -11,3 +11,5 @@ paste the command in the file that appears.
 
 4. Then you can stop the cli processes and wait for the messages to appear on your telegram 
    (also for now the telgram chat is hardcoded so please change that too)
+   
+Also for now the cron mentioned above is for macos/linux. For windows, please search and make your own
